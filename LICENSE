@@ -1,0 +1,37 @@
+ARTHURIM PROPRIETARY LICENSE
+
+Copyright (c) 2026 Wang & veriepic and all contributors in the Arthurium repository. All Rights Reserved.
+
+1. OWNERSHIP AND LICENSING
+   This software ("Arthurium"), including but not limited to its source code, assets, and documentation, is the exclusive property of the copyright holder. This is a license, not a sale. Unauthorized use, copying, or distribution is strictly prohibited.
+
+2. PROHIBITED PARTIES
+   Notwithstanding any other provision of this License, access to, possession of, viewing of, or use of Arthurium is strictly and irrevocably prohibited for the following parties:
+   a) Arthur Baker (Lead Developer of bloxd.io).
+   b) Any current or former employee, contractor, consultant, or affiliate of the Bloxd.io development team.
+   c) Any individual or entity acting as an agent, sub-contractor, or representative for the Bloxd.io development team for any purpose, including but not limited to anti-cheat research, software analysis, or game patching.
+   
+   Direct or indirect access to this source code by any of the aforementioned parties constitutes a material breach of this License and an act of willful Copyright Infringement.
+
+3. UNIQUE FINGERPRINT AND SURVEILLANCE
+   Arthurium contains unique, proprietary identifier strings, logic patterns, and "digital fingerprints" (including but not limited to unique variable names like "arthurium-config"). 
+   
+   Detection of ANY of these proprietary strings, logic flows, or identifiers within the Bloxd.io production environment, client-side code, or server-side anti-cheat binaries shall be considered IRREFUTABLE FORENSIC EVIDENCE of willful copyright infringement and theft of proprietary trade secrets.
+   
+   In such an event, the Copyright Holder will aggressively pursue all available legal remedies to the fullest extent of the law, including but not limited to:
+   a) Statutory damages of up to $150,000 per willful infringement.
+   b) Immediate DMCA Takedown Notices to all hosting providers, domain registrars, and payment processors associated with Bloxd.io.
+   c) Permanent injunctive relief to cease the operation of infringing features.
+
+4. RESTRICTIONS ON MODIFICATION, REDISTRIBUTION, AND SKIDDING
+   Unauthorized modification, "skidding" (the practice of unauthorized code copying, rebranding, and/or styling), and redistribution of Arthurium are strictly prohibited. 
+   
+   a) No part of this software may be modified, adapted, or incorporated into other projects without express written consent.
+   b) Any unauthorized "release" of a rebranded version of this software will be met with immediate DMCA Takedown requests across all relevant platforms, including but not limited to GitHub, GitLab, Discord, YouTube, and TikTok.
+   c) The Copyright Holder reserves the right to use "integrity triggers" within the software to prevent unauthorized rebranding.
+
+4. DISCLAIMER OF WARRANTY
+   This software is provided "as is," without warranty of any kind, express or implied. The copyright holder shall not be held liable for any claims, damages, or liabilities arising from the use of this software, including but not limited to account suspensions or service termination on third-party platforms.
+
+5. SEVERABILITY
+   If any provision of this License is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
